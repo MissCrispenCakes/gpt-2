@@ -1,0 +1,6 @@
+https://towardsdatascience.com/the-git-cheat-sheet-5858865457ef
+https://python.plainenglish.io/i-fine-tuned-gpt-2-on-100k-scientific-papers-heres-the-result-903f0784fe65
+https://medium.com/geekculture/i-found-a-loophole-to-successfully-web-scrape-using-chatgpt-heres-how-it-works-135f6c077d4d
+https://towardsdatascience.com/step-by-step-guide-on-how-to-train-gpt-2-on-books-using-google-colab-b3c6fa15fef0
+https://github.com/openai/gpt-2
+chrome://apps/?showDeletionDialog=ofhbbkphhbklhfoeikjpcbhemlocgigb
