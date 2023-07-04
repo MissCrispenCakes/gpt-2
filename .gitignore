@@ -5,8 +5,9 @@ __pycache__/
 
 __pycache__
 .mypy_cache/
-models/
-checkpoint/
+models/AIPtuned/model*
+checkpoint/AIPtuned/
+checkpoint/AIPcheck/
 samples/
 
 # C extensions
